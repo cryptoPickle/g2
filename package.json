@@ -22,7 +22,7 @@
   "devDependencies": {
     "@antv/data-set": "~0.8.0",
     "babel-core": "~6.26.0",
-    "babel-eslint": "~8.0.3",
+    "babel-eslint": "~9.0.0",
     "babel-loader": "~7.1.2",
     "babel-plugin-transform-remove-strict-mode": "~0.0.2",
     "babel-preset-env": "~1.6.1",
