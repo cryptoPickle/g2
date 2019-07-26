@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "@antv/g": "~2.0.4",
-    "fecha": "~2.3.2",
+    "fecha": "~3.0.3",
     "gl-matrix": "~2.4.0",
     "lodash": "~4.17.4",
     "wolfy87-eventemitter": "~5.2.4"
