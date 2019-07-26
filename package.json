@@ -43,7 +43,7 @@
     "open": "~0.0.5",
     "parseurl": "~1.3.2",
     "pre-commit": "~1.2.2",
-    "serve-static": "~1.13.1",
+    "serve-static": "~1.14.1",
     "shelljs": "~0.7.8",
     "torchjs": "~1.0.4",
     "uglify-js": "~3.1.10",
