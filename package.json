@@ -46,7 +46,7 @@
     "serve-static": "~1.13.1",
     "shelljs": "~0.7.8",
     "torchjs": "~1.0.4",
-    "uglify-js": "~3.1.10",
+    "uglify-js": "~3.6.0",
     "webpack": "~3.10.0"
   },
   "scripts": {
